@@ -3,17 +3,17 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Gilda Display';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: rgb (12, 137, 148);
+    color: rgb(12, 137, 148);
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: rgb (12, 137, 148);
+    color: rgb(12, 137, 148);
 }
 a {
     text-decoration: none;
@@ -24,13 +24,13 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Andada','Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Gilda Display';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Gilda Display';
 }
 footer {
     border-top: 1px solid #d5d5d5;
