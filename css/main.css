@@ -7,13 +7,13 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: rgb(12, 137, 148);
+    color: rgb (12, 137, 148);
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: rgb(12, 137, 148);
+    color: rgb (12, 137, 148);
 }
 a {
     text-decoration: none;
