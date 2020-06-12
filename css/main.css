@@ -9,8 +9,8 @@ nav ul, footer ul {
     font-weight: bold;
 }
 h1  {
-    color rgb(0, 115, 153)
-}
+     color:rgb(0, 115, 153);
+            }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
