@@ -24,7 +24,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Gilda Display';
+    font-family:'Verdana', 'Geneva', 'Helvetica', 'Arial', 'sans-serif';
     color: rgb(12, 137, 148);
 }
 h2 {
