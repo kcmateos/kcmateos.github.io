@@ -26,6 +26,7 @@ h1 {
     font-size: 3em;
     font-family:'Verdana', 'Geneva', 'Helvetica', 'Arial', 'sans-serif';
     color: rgb(50, 110, 147);
+    text-align: center;
 }
 h2 {
      font-size: 1.8em;
