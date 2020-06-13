@@ -3,17 +3,17 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Gilda Display';
+    font-family:'Verdana', 'Geneva', 'sans-serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: rgb(12, 137, 148);
+
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: rgb(12, 137, 148);
+   
 }
 a {
     text-decoration: none;
@@ -25,15 +25,17 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Gilda Display';
+    color: rgb(12, 137, 148);
 }
 h2 {
      font-size: 2em;
-    font-family:'Gilda Display';
+    font-family:'Verdana', 'Geneva', 'sans-serif'';
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Gilda Display';
+    font-family:'Verdana', 'Geneva', 'sans-serif'
 }
 footer {
     border-top: 1px solid #d5d5d5;
